@@ -9,4 +9,7 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
 <a href="https://github.com/MoltenSt4r/MoltenGram"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-moltengram-dark.svg"><img src="assets/project-moltengram-light.svg" width="49%" alt="MoltenGram"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=MoltenSt4r"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
